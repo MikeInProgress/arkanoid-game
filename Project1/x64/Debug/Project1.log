@@ -1,5 +1,0 @@
-﻿  Game.cpp
-D:\Projects\game\2D\Project1\Game.cpp(115,31): warning C4305: 'argument': truncation from '__int64' to 'sf::Uint32'
-D:\Projects\game\2D\Project1\Game.cpp(115,31): warning C4309: 'argument': truncation of constant value
-D:\Projects\game\2D\Project1\Game.cpp(90,14): warning C4101: 'cage': unreferenced local variable
-  Project1.vcxproj -> D:\Projects\game\2D\Project1\x64\Debug\Project1.exe
